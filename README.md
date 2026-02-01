@@ -94,7 +94,7 @@ const App = () => {
 ### Additional Contributors
 | Name | Profile|
 | ----- | ------ |
-| Steacy Paquette [@SteaceP](https://github.com/SteaceP) |
+| Steacy Paquette | [@SteaceP](https://github.com/SteaceP) |
 | Andy Tenholder| [@AndyTenholder](https://github.com/AndyTenholder) |
 | Minhaz | [@mebjas](https://github.com/mebjas) |
 | Mohit Tank| [@tankmohit](https://github.com/tankmohit) |
